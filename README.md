@@ -5,3 +5,5 @@ Here you will find our analysis of the datasets relating to the parcoursup platf
 You'll find all you need to know about datasets, as well as an analysis and an attempt to develop a small predictive model.
 
 The objectives are also described at the beginning of the document.
+
+You'll also find datasets in csv format in the "DataSet_Voeux_RepEtablissement" and "DataSet_VoeuxParSpe" folders.
